@@ -584,10 +584,7 @@ with st.sidebar:
                 <div class="sidebar-stat-label">Latency</div>
                 <div class="sidebar-stat-value">Ultra Low</div>
             </div>
-            <div>
-                <div class="sidebar-stat-label">Developer</div>
-                <div class="sidebar-stat-value">Akshat Agrawal</div>
-            </div>
+           
         </div>
     </div>
     <div style="height:1px;background:rgba(0,210,180,0.08);margin:1.5rem 0;"></div>
