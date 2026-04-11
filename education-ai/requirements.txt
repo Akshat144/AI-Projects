@@ -1,7 +1,6 @@
-streamlit==1.32.0
+streamlit
 google-generativeai==0.4.1
 langchain==0.1.13
 langchain-community==0.0.29
 langchain-core==0.1.33
-crewai==0.22.4
 pydantic==2.6.4
