@@ -580,12 +580,7 @@ with st.sidebar:
                 <div class="sidebar-stat-label">Mode</div>
                 <div class="sidebar-stat-value">Multi-Agent</div>
             </div>
-            <div>
-                <div class="sidebar-stat-label">Latency</div>
-                <div class="sidebar-stat-value">Ultra Low</div>
-            </div>
-           
-        </div>
+            
     </div>
     <div style="height:1px;background:rgba(0,210,180,0.08);margin:1.5rem 0;"></div>
     <div style="font-size:0.65rem;letter-spacing:0.18em;text-transform:uppercase;color:#1e4a54;font-family:'DM Mono',monospace;margin-bottom:1rem;">Agents Online</div>
